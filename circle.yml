@@ -1,3 +1,7 @@
+#
+# Build configuration for Circle CI
+#g
+
 general:
     artifacts:
         - /home/ubuntu/TestCircleCi/app/build/outputs/apk/
