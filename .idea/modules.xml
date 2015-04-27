@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestCircleCi.iml" filepath="$PROJECT_DIR$/TestCircleCi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/TestCircleCi-TestCircleCi.iml" filepath="$PROJECT_DIR$/app/TestCircleCi-TestCircleCi.iml" />
+    </modules>
+  </component>
+</project>
+

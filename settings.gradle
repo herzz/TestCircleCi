@@ -1,0 +1,2 @@
+include ':TestCircleCi'
+project(':TestCircleCi').projectDir = new File('app')
